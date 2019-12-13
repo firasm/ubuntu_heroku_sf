@@ -1,1 +1,3 @@
-:repo:deb http://ppa.launchpad.net/ubuntugis/ppa/ubuntu gdal-bin libgdal-dev
+:repo:deb http://ppa.launchpad.net/ubuntugis/ppa/ubuntu xenial main universe
+gdal-bin 
+libgdal-dev
