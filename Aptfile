@@ -6,3 +6,7 @@ libgdal1i
 libgdal1-dev
 https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa/+files/gdal-bin_2.2.2+dfsg-1~xenial1_amd64.deb
 https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa/+files/libgdal-dev_2.2.2+dfsg-1~xenial1_amd64.deb
+libproj-dev 
+proj-data 
+proj-bin 
+libgeos-dev
