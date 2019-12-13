@@ -2,5 +2,7 @@ libcurl4-openssl-dev
 libxml2-dev
 libv8-3.14-dev
 libudunits2-dev
+libgdal1i
+libgdal1-dev
 https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa/+files/gdal-bin_2.2.2+dfsg-1~xenial1_amd64.deb
 https://launchpad.net/~ubuntugis/+archive/ubuntu/ppa/+files/libgdal-dev_2.2.2+dfsg-1~xenial1_amd64.deb
