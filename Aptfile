@@ -2,5 +2,8 @@ libcurl4-openssl-dev
 libxml2-dev
 libv8-3.14-dev
 libudunits2-dev
-:repo:deb http://ppa.launchpad.net/ubuntugis/ppa/ubuntu gdal-bin
-# ppa:ubuntugis/ppa
+libgdal1i
+libgdal-dev
+libproj-dev
+proj-data
+libgeos-dev
