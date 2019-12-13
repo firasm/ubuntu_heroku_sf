@@ -54,5 +54,5 @@ options(repos=r)
 # remotes::install_github("plotly/dash-core-components", ref="cc1e654")
 # remotes::install_github("plotly/dashR", ref="dev", dependencies=FALSE)
 
-install.packages('rgdal')
+install.packages("https://cran.r-project.org/src/contrib/Archive/rgdal/rgdal_1.3-6.tar.gz", type="source", repos=NULL)
 install.packages('sf')
